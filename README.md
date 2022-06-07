@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá! Eu sou o Miguel Pereira 👋
 
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/miguel-pereira-86b71a143)
+
 
