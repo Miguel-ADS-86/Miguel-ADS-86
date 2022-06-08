@@ -4,7 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-pereira-86b71a143)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguel_triplox/)
 
-![Miguel Pereira](https://github-readme-stats.vercel.app/api?username=Miguel-ADS-86&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-ADS-86&layout=compact)](https://github.com/Miguel-ADS-86/github-readme-stats)
+![Miguel Pereira](https://github-readme-stats.vercel.app/api?username=Miguel-ADS-86&show_icons=true&theme=tokyonight) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-ADS-86&layout=compact)](https://github.com/Miguel-ADS-86/github-readme-stats)
 
 ## Habilidades que estou atualmente estudando! 
 <div style="display: inline_block">
